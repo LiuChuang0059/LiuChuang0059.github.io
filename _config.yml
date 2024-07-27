@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chuang Liu"
+title                    : "Chuang Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Chuang Liu"
 description              : &description "PhD candidate in the School of Computer Science, Wuhan University"
