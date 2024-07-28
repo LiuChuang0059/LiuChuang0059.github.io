@@ -15,8 +15,7 @@ Education
 
 Work experience
 ======
-*  Algorithm Engineer,  2021-2023
-  * JD Explore Academy
-  * Supervisor: Yibing Zhan, Liang Ding, and Dapeng Tao
+*  Algorithm Engineer in JD Explore Academy,  2021-2023
+    * Supervisor: Yibing Zhan, Liang Ding, and Dapeng Tao
 
   
