@@ -14,9 +14,9 @@ Research Interests
 ======
 * Graph Representation Learning, Graph Neural Networks
 * Pre-training on Graphs, Graph Masked Autoencoder, Contrastive Learning
-* Graph Pooling
 * Bioinformatics, Drug Discovery
 * Pruning on Graphs
+* Graph Pooling
 
 
 
@@ -37,14 +37,14 @@ Zelin Yao, **Chuang Liu**, Xueqi Ma, Mukun Chen, Jia Wu, Xiantao Cai, Bo Du, Wen
 1.  *Exploring High-Order Message-Passing in Graph Transformers* [[Paper](https://openreview.net/pdf?id=8oUF3uGIVo)] <br>
 Xueqi Ma, Xingjun Ma, **Chuang Liu**, Sarah Monazam Erfani, James Bailey <br>
 
-1.  *Leveraging Tissue-level Representations and Labels for Whole Slide Images Classification* [[Paper])] <br>
+1.  *Leveraging Tissue-level Representations and Labels for Whole Slide Images Classification* [[Paper]()] <br>
 Xueqi Ma, Xingjun Ma, **Chuang Liu**, Sarah Monazam Erfani, James Bailey <br>
 
 
 
 Selected Publications [[See All](https://liuchuang0059.github.io/publications/)]
 =====
-(\* Equal Contribution)
+(\* Equal Contribution \# Corresponding Author)
 
 1.  *Debiased Graph Clustering with Dual Contrastive Learning* [[Paper]()] <br>
 Kuang Gao, Mukun Chen, **Chuang Liu**, Zhenyu Qiu, Xiahu, Jia, Wenbin Hu <br>
@@ -110,8 +110,8 @@ Joint European Conference on Machine Learning and Knowledge Discovery in Databas
 
 Honors and Awards
 =====
-* 2023: **First-class academic scholarship**, Wuhan University
-* 2023: **Special Scholarship (DiDi)**, Wuhan University
+* 2023: First-class academic scholarship, Wuhan University
+* 2023: Special Scholarship (DiDi), Wuhan University
 * 2019: **Excellent graduate**,  Wuhan University
 
 
