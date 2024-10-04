@@ -13,9 +13,9 @@ Chuang Liu (刘闯) is currently a third-year PhD candidate at the School of Com
 Research Interests
 ======
 * Graph Representation Learning, Graph Neural Networks
-* Pre-training on Graphs, Graph Masked Autoencoder, Contrastive Learning
-* Bioinformatics, Drug Discovery
-* Pruning on Graphs
+* Pre-training on Graphs: Graph Masked Autoencoder, Contrastive Learning
+* Bioinformatics: Drug Discovery, Drug Generation
+* Graph Efficient Learning: Pruning, Graph Knowledge Distillation
 * Graph Pooling
 
 
@@ -31,9 +31,6 @@ Zelin Yao, **Chuang Liu**, Xueqi Ma, Mukun Chen, Jia Wu, Xiantao Cai, Bo Du, Wen
 1.  *Local-Global Graph Masked Autoencoders for Graph-level Representation Learning* [[Paper]()] <br>
 **Chuang Liu**, Chen Cao, Zelin Yao, Yibing Zhan, Xueqi Ma, Dapeng Tao, Jia Wu, Wenbin Hu <br>
 
-1.  *Careful Selection and Thoughtful Discarding: Graph Explicit Pooling Utilizing Discarded Nodes* [[Paper](https://arxiv.org/pdf/2311.12644)] <br>
-**Chuang Liu**, Wenhang Yu, Kuang Gao, Xueqi Ma, Yibing Zhan, Jia Wu, Bo Du, Wenbin Hu <br>
-
 1.  *Exploring High-Order Message-Passing in Graph Transformers* [[Paper](https://openreview.net/pdf?id=8oUF3uGIVo)] <br>
 Xueqi Ma, Xingjun Ma, **Chuang Liu**, Sarah Monazam Erfani, James Bailey <br>
 
@@ -45,6 +42,10 @@ Xueqi Ma, Xingjun Ma, **Chuang Liu**, Sarah Monazam Erfani, James Bailey <br>
 Selected Publications [[See All](https://liuchuang0059.github.io/publications/)]
 =====
 (\* Equal Contribution \# Corresponding Author)
+
+1.  *Graph Explicit Pooling Utilizing Discarded Nodes* [[Paper](https://arxiv.org/pdf/2311.12644)] <br>
+**Chuang Liu**, Wenhang Yu, Kuang Gao, Xueqi Ma, Yibing Zhan, Jia Wu, Bo Du, Wenbin Hu <br>
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1.  *Debiased Graph Clustering with Dual Contrastive Learning* [[Paper]()] <br>
 Kuang Gao, Mukun Chen, **Chuang Liu**, Zhenyu Qiu, Xiahu, Jia, Wenbin Hu <br>
