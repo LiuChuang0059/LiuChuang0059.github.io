@@ -8,10 +8,15 @@ redirect_from:
 ---
 
 刘闯，博士，大连海事大学人工智能学院副教授。本科毕业于武汉大学物理科学与技术学院，博士毕业于武汉大学计算机学院。
+
 Chuang Liu, Ph.D., is an Associate Professor at the School of Artificial Intelligence, Dalian Maritime University. He received his B.S. in Physics from Wuhan University and his Ph.D. in Computer Science, also from Wuhan University.
 
-欢迎报考本组硕士，同时也诚邀本科实习生加入。
+
+-----
+***<span style="color:red">欢迎报考本组硕士，同时也诚邀本科实习生加入。
 有意向的同学请将个人简历发送至我的邮箱 (chuangliu@whu.edu.cn/ 2015301020059lc@gmail.com)
+</span>***
+
 
 
 Research Interests
