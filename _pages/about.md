@@ -7,16 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Chuang Liu (刘闯) is currently a third-year PhD candidate at the School of Computer Science, Wuhan University (WHU), Wuhan, China. His research interests primarily focus on machine learning on graphs, including graph representation learning and graph neural networks, with interdisciplinary applications in fields such as bioinformatics and drug discovery.
+刘闯，博士，大连海事大学人工智能学院副教授。本科毕业于武汉大学物理科学与技术学院，博士毕业于武汉大学计算机学院。
+Chuang Liu, Ph.D., is an Associate Professor at the School of Artificial Intelligence, Dalian Maritime University. He received his B.S. in Physics from Wuhan University and his Ph.D. in Computer Science, also from Wuhan University.
+
+欢迎报考本组硕士，同时也诚邀本科实习生加入。
+有意向的同学请将个人简历发送至我的邮箱 (chuangliu@whu.edu.cn/ 2015301020059lc@gmail.com)
 
 
 Research Interests
 ======
-* Graph Representation Learning, Graph Neural Networks
-* Pre-training on Graphs: Graph Masked Autoencoder, Contrastive Learning
-* Bioinformatics: Drug Discovery, Drug Generation
-* Graph Efficient Learning: Pruning, Graph Knowledge Distillation
-* Graph Pooling
+* **Graph Representation Learning:** Graph Neural Networks, Graph Transformer
+* **Pre-training on Graphs:** Graph Masked Autoencoder, Graph Contrastive Learning
+* **Graph Efficient Learning:** Pruning, Graph Knowledge Distillation
+* **Application:** Drug Discovery, Drug Generation, Traffic Flow Prediction
 
 
 
@@ -122,8 +125,15 @@ Journal:
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
-* Neurocomputing (NC)
+* Pattern Recognition
+* Neural Networks
+* Information Sciences
+* Expert Systems With Applications
+* Knowledge-Based Systems
+* Engineering Applications of Artificial Intelligence
+* Neurocomputing
+* Pattern Recognition Letters
 
 Conference:
 
-* 2024:  KDD, IJCAI, ACMMM
+*  KDD, IJCAI, ACMMM, IEEE ICWS 
